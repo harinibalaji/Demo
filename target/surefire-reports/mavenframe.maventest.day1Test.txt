@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mavenframe.maventest.day1Test
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.159 s - in mavenframe.maventest.day1Test
